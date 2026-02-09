@@ -1,4 +1,6 @@
-
+/* i chose flexbox because it is simpler to place nav,content, and sidebar to put next to each other. */
+body {
+    margin: 0;
 
 body {
     margin: 0;
